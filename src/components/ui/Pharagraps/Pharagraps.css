@@ -1,0 +1,36 @@
+.carrera-p{
+    font-size: 18px;
+    margin: 7px;
+}
+
+.ciudad-p{
+    color: white;
+    font-size: 16px;
+    margin: 7px;
+}
+
+.temas-p{
+    padding: 0;
+    margin: 2px;
+    font-size: 12px;
+    color: rgba(127, 127, 127, 1);
+}
+
+.total-fri{
+    font-size: 14px;
+    color: black;
+}
+
+.search-fri{
+    color: rgba(127, 127, 127, 1);
+    font-size: 12px;
+    text-decoration: 1px underline black;
+}
+
+.carrer-frie{
+    font-size: 12px;
+}
+
+.texfond{
+    color: white;
+}

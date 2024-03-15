@@ -1,0 +1,21 @@
+.InputClass{
+    text-align: left;
+    margin-top: 10px;
+    width: 60%;
+}
+
+.InputClass label{
+    padding: 10px 0;
+}
+
+.InputClass input
+{
+    margin: 10px 0;
+    border: 1px solid #afafaf;
+    padding: 0 5%;
+    width: 89%;
+    height: 35px;
+    outline: none;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}

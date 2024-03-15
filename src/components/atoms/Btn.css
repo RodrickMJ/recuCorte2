@@ -1,0 +1,7 @@
+.CustomButtonClass{
+    width: 60%;
+    border-radius: 5px;
+    height: 40px;
+    cursor: pointer;
+    margin: 20px 0;
+}

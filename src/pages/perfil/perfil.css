@@ -1,0 +1,33 @@
+.conteiner-perfil{
+    /* background-color: red; */
+    width: Fixed (1,504px);
+    /* width: 1320px; */
+    height: 1938;
+    /* margin-top: 25px; */
+    /* margin-left: 100px; */
+    margin: 20px 10px 0px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.perfil-dates-post{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.dates-cont-perfil{
+    width: 827px;
+    height: 213px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-top: 20px;
+}
+
+/* .sug-perfil{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+} */

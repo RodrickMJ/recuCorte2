@@ -1,0 +1,31 @@
+
+.acercaDe{
+    width: 480px;
+    height: 175px;
+    padding: 20px;
+    background-color: rgba(243, 243, 243, 1);
+}
+
+.acercaDe h1{
+    font-size: 20px;
+}
+
+.acercaDe p{
+    font-size: 13px;
+    color: rgba(127, 127, 127, 1);
+    text-align: justify;
+}
+
+.text-prin{
+    width: 335px;
+    height: 72px;
+}
+
+.text-prin h1{
+    font-size: 14px;
+}
+
+.text-prin p{
+    font-size: 14px;
+    width: 260px;
+}

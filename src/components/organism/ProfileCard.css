@@ -1,0 +1,21 @@
+.photo-profile img{
+    margin-left: -15px;
+    object-fit: cover; 
+    border-radius: 60%;
+    position: absolute;
+    margin-top: -50px;
+    width: 30%;
+    height: 30%;
+}
+
+.photo-profile{
+    margin-left:39%;
+    overflow: hidden;
+    width: 70px; 
+    height: 70px;
+    border-radius: 50%;
+    
+}
+.container-data{
+    margin-top: 15px    ;
+}

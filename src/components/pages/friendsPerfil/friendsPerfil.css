@@ -1,0 +1,25 @@
+.cont-friends-seg{
+    width: 230px;
+    height: 213px;
+    background-color: rgba(243, 243, 243, 1);
+    padding: 20px;
+}
+
+.to-sear{
+    width: 210px;
+    height: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.friend-info{
+    width: 210px;
+    height: 56px;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}

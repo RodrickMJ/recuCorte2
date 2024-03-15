@@ -1,0 +1,15 @@
+.container-nav{
+    background: #7da0e7;
+    
+    display: flex;
+    margin: 0;
+    padding: 0;
+    flex-direction: row;
+    height: 10vh;
+    width: 100%;
+    align-items: center;
+    
+}
+.user-options{
+    margin-left: 370px;
+}
